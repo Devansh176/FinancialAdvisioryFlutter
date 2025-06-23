@@ -1,6 +1,6 @@
 # 💰 Financial Advisory App – Flutter Frontend
 
-A comprehensive **Flutter frontend** for a **Financial Advisory Application**, designed to help users manage income, expenses, investments, and monitor their financial health. This frontend integrates various financial tools like **SIP calculator**, transaction history, balance charts, and user profile management.
+A comprehensive **Flutter frontend** for a **Financial Advisory Application**, designed to help users manage income, expenses, investments, and monitor their financial health. This frontend integrates various financial tools, including a SIP calculator, transaction history, balance charts, and user profile management.
 
 ---
 
@@ -49,13 +49,13 @@ lib/
 
 - Flutter SDK installed
 - Android Studio / VS Code
-- Backend API or mock data for testing (Spring Boot, Firebase, etc.)
+- Backend API or mock data for testing (e.g., Spring Boot, Firebase)
 
 ### 🔧 Setup Instructions
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/financial_advisory_flutter.git
+git clone https://github.com/Devansh176/FinancialAdvisioryFlutter.git
 cd financial_advisory_flutter
 
 # 2. Get dependencies
